@@ -14,5 +14,5 @@ pip install opencv-python
 ## Usage
 
 ```
-python3 colors.py
+python3 app.py
 ```
